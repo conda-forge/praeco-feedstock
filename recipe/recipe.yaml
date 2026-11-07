@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.0"
+  version: "0.2.0"
   python_min: '3.11'
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/praeco/praeco-${{ version }}.tar.gz
-  sha256: 6b53dbca92b9e6f5cd1243c96626dd2513bb96070edf22488fab06c26a0ad82a
+  sha256: 77e8476e3663c5228cb7a3ac519d6163e3801edcd6987fd5f6142fa480022ee4
 
 build:
   number: 0
